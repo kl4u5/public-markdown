@@ -45,3 +45,4 @@ Det samlede samlingstab udgør **5,0 cm pr. række** ved 90° knækket (2,5 cm s
 
 * **Samlet antal plader:** **55–56 Troldtekt-plader** (120 x 60 cm).
 * **Antal pakker:** Svarer til **11 til 12 pakker** (ved 5 plader pr. pakke).
+* **Antal skruer:** 56 x 6 = **336 skruer.**

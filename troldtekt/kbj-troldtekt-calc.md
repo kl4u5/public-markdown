@@ -1,3 +1,7 @@
+---
+layout: default
+title: KBJ Troldtekt Calc
+---
 # KBJ Troldtekt Calc
 
 ![alt text](image.png)
